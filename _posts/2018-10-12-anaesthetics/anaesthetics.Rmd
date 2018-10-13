@@ -38,11 +38,9 @@ preview: images/anaesth.jpeg
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-[Anaesthesia.](https://www.ncbi.nlm.nih.gov/pubmed/?term=26390917#) 2015 Sep;70 Suppl 4:1-91. doi: 10.1111/anae.13223.
 Abstracts of the AAGBI Annual Congress, 23-25 September 2015, Edinburgh, UK.
 
+![](anaesth.jpeg)
+
+Anaesthesia
 PMID: 26390917 DOI: [10.1111/anae.13223](https://doi.org/10.1111/anae.13223)
-
-Annual Congress Edinburgh 2015
-
-Abstract Reference: 3157495
