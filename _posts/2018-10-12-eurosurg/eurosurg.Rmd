@@ -1,0 +1,48 @@
+---
+title: "Body mass index and complications following major gastrointestinal surgery: a prospective, international cohort study and meta-analysis."
+description: |
+  A collaborative project through EuroSurg.
+author:
+  - name: Fergus Taylor 
+    url: https://fergustaylor.github.io/Dev/
+    affiliation: University of Glasgow
+    affiliation_url: https://www.gla.ac.uk/
+  - name: EuroSurg Collaborators
+    url: https://www.ncbi.nlm.nih.gov/pubmed/?term=EuroSurg%20Collaborative%5BCorporate%20Author%5D
+    affiliation: EuroSurg
+    affiliation_url: http://eurosurg.org
+journal: 
+  title: "Colorectal Dis."
+  issn: 1463-1318
+  publisher: Wiley Online Journal
+volume: 20
+issue: 8
+doi: "10.1111/codi.14292"
+PMID: "29897171"
+date: 07-09-2018
+preview: images/plastics.jpg
+output:
+  radix::radix_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Abstract
+AIM:
+Previous studies reported conflicting evidence on the effects of obesity on outcomes after gastrointestinal surgery. The aims of this study were to explore the relationship of obesity with major postoperative complications in an international cohort and to present a meta-analysis of all available prospective data.
+
+METHODS:
+This prospective, multicentre study included adults undergoing both elective and emergency gastrointestinal resection, reversal of stoma or formation of stoma. The primary end-point was 30-day major complications (Clavien-Dindo Grades III-V). A systematic search was undertaken for studies assessing the relationship between obesity and major complications after gastrointestinal surgery. Individual patient meta-analysis was used to analyse pooled results.
+
+RESULTS:
+This study included 2519 patients across 127 centres, of whom 560 (22.2%) were obese. Unadjusted major complication rates were lower in obese vs normal weight patients (13.0% vs 16.2%, respectively), but this did not reach statistical significance (P = 0.863) on multivariate analysis for patients having surgery for either malignant or benign conditions. Individual patient meta-analysis demonstrated that obese patients undergoing surgery for malignancy were at increased risk of major complications (OR 2.10, 95% CI 1.49-2.96, P < 0.001), whereas obese patients undergoing surgery for benign indications were at decreased risk (OR 0.59, 95% CI 0.46-0.75, P < 0.001) compared to normal weight patients.
+
+CONCLUSIONS:
+In our international data, obesity was not found to be associated with major complications following gastrointestinal surgery. Meta-analysis of available prospective data made a novel finding of obesity being associated with different outcomes depending on whether patients were undergoing surgery for benign or malignant disease.
+
+Colorectal Disease © 2018 The Association of Coloproctology of Great Britain and Ireland.
+
+PMID: 29897171 DOI: [10.1111/codi.14292](https://doi.org/10.1111/codi.14292)

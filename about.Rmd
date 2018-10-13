@@ -1,0 +1,21 @@
+---
+title: "About this blog"
+description: |
+  This is a blog for academic projects I've worked on as a student. <br>
+  It's built on [Radix](https://rstudio.github.io/radix/), an online publication format designed for scientific and technical communication. <br>
+  You can see more data science projects back on the [main site.](https://fergustaylor.github.io/)
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+**About Me:** I’m a Glasgow medical student with a passion for Global Medicine and Reconstructive Surgery.
+
+I'm interested in quality improvement in healthcare, and I’ve worked on a few research projects as a student. I’m currently learning how to use more data science tools with R. (.. d3.js and HTML).
+
+Next I’ll work on LaTex, Python and SQL.
+
+I tend to use private repositories on Github when I’m working, and make them public once I’ve cleaned up the code - especially when I’m using public datasets. But if there’s something I can share here while I’m going along, I do at least try to post explanations of what I’m working.
+
+All the code should be reproducible from Github and the data sources marked out in my scripts. These projects show some examples of work I’m interested in at the moment.

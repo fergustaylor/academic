@@ -1,0 +1,43 @@
+---
+title: "Early Pregnancy Admissions in A and E"
+description: |
+  A consideration of Early Pregnancy Admissions in A and E.
+author:
+  - name: Fergus Taylor 
+    url: https://fergustaylor.github.io/Dev/
+    affiliation: University of Glasgow
+    affiliation_url: https://www.gla.ac.uk/
+  - name: Hannah Smith 
+    url: https://fergustaylor.github.io/Dev/
+    affiliation: Queen Elizabeth University Hospital
+    affiliation_url: https://www.gla.ac.uk/
+  - name: Joanne Eagleson 
+    url: https://fergustaylor.github.io/Dev/
+    affiliation: Queen Elizabeth University Hospital
+    affiliation_url: https://www.gla.ac.uk/
+  - name: Jemaima Olori
+    url: https://fergustaylor.github.io/Dev/
+    affiliation: University of Glasgow
+    affiliation_url: https://www.gla.ac.uk/
+journal: 
+  title: 
+  issn: 
+  publisher: 
+volume: 
+issue: 
+doi: 
+PMID: 
+date: 
+output:
+  radix::radix_article:
+    self_contained: false
+preview: images/plastics.jpg
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(
+  echo = TRUE,
+  warning = TRUE,
+  message = TRUE
+  )
+```
