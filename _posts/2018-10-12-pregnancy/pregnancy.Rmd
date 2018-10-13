@@ -8,30 +8,30 @@ author:
     affiliation: University of Glasgow
     affiliation_url: https://www.gla.ac.uk/
   - name: Hannah Smith 
-    url: https://fergustaylor.github.io/Dev/
+    url: 
     affiliation: Queen Elizabeth University Hospital
-    affiliation_url: https://www.gla.ac.uk/
+    affiliation_url: 
   - name: Joanne Eagleson 
-    url: https://fergustaylor.github.io/Dev/
+    url: 
     affiliation: Queen Elizabeth University Hospital
-    affiliation_url: https://www.gla.ac.uk/
+    affiliation_url: 
   - name: Jemaima Olori
-    url: https://fergustaylor.github.io/Dev/
+    url: 
     affiliation: University of Glasgow
     affiliation_url: https://www.gla.ac.uk/
 journal: 
   title: 
   issn: 
   publisher: 
-volume: 
-issue: 
+  volume: 
+  issue: 
 doi: 
 PMID: 
 date: 
+preview: audit.png
 output:
   radix::radix_article:
     self_contained: false
-preview: images/plastics.jpg
 ---
 
 ```{r setup, include=FALSE}
@@ -41,3 +41,5 @@ knitr::opts_chunk$set(
   message = TRUE
   )
 ```
+
+![](audit.png)

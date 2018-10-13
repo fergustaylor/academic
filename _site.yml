@@ -3,8 +3,7 @@ title: "Academic"
 description: |
   A collection of projects I've worked on as a student.
 output_dir: "docs"
-base_url: https://fergustaylor.github.io/academic/
-repository_url: http://github.com/fergustaylor/academic
+repository_url: http://github.com/fergustaylor/academic/
 google_analytics: "UA-107299466-1"
 twitter:
   site: "@ferguswtaylor"
@@ -17,13 +16,7 @@ navbar:
     - text: "Home"
       href: index.html
     - text: "About"
-      menu:
-        - text: "About"
-          href: about.html
-        - text: "---"
-collections:
-  posts:
-    share: [twitter, linkedin]
+      href: about.html
 output:
   radix::radix_article:
     css: styles.css

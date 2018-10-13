@@ -31,10 +31,10 @@ issue: 5
 doi: "10.1016/j.ejso.2016.02.226"
 PMID: 
 date: 05-01-2016
+preview: plastics.jpg
 output:
   radix::radix_article:
     self_contained: false
-preview: images/plastics.jpg
 ---
 
 ```{r setup, include=FALSE}

@@ -25,22 +25,67 @@ journal:
   publisher: Wiley Online Journal
   volume: 70
   issue: S4
-doi: "10.1111/anae.13223"
+doi: "https://doi.org/10.1111/anae.13224"
 PMID: 26390917
 date: 09-22-2015
 output:
   radix::radix_article:
     self_contained: false
-preview: images/anaesth.jpeg
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-Abstracts of the AAGBI Annual Congress, 23-25 September 2015, Edinburgh, UK.
+Elective surgical patients are required to fast, in order to reduce the risk of pulmonary
+aspiration of gastric contents [1]. For multiple reasons, many patients
+fast for longer than recommended. Prolonged fasting has many detrimental
+effects; including dehydration, electrolyte imbalances and hypoglycaemia, as
+well as exacerbating the postoperative stress response [2]. Furthermore, protracted
+fasting is also unpleasant for patients and can induce distress and fatigue.
+A previous audit in our hospital showed that elective breast surgery
+patients were fasting for excessive periods. A new fasting guideline and patient
+information sheet has since been introduced across our health board. We sought
+to determine if this new guideline and staff education have improved the duration
+of pre-operative fasting in elective breast surgery patients in our hospital.
 
-![](anaesth.jpeg)
+Methods
+Over a five-week period, a re-audit was conducted on elective breast surgery
+patients. Patients were interviewed to determine their fasting times for food
+and clear fluids, and what information they had received on fasting.
+
+Results
+Data were collected for 24 elective breast surgery patients. The mean fasting
+time for food was 15 h 10 min (range 8 h 50 min to 21 h 5 min); [previous
+data 15 h 24 min (range 11 h 0 min to 21 h 30 min)]. The mean fasting time
+for clear fluids was 8 h 35 min (range 1 h 5 min to 16 h 20 min); [previous
+data 13 h 13 min (range 3 h 10 min to 19 h 15 min)]. Twenty patients recalled
+being instructed to fast from food, as of midnight, and clear fluids from 6 am or
+6.30 am. Four patients stated that they had been advised to fast entirely from
+midnight. Twenty patients recalled being given written information on fasting,
+whereas ten patients received written and verbal information. Two patients
+received only verbal information.
+
+Discussion
+From this re-audit it is evident that elective breast surgery patients in our centre
+are continuing to fast for excessive periods, although slightly less than previously.
+Disappointingly, patients allocated to the afternoon list were told to fast
+from midnight, and did not all receive water on the ward in the morning.
+Although not measured here, this may be having harmful affects on their postoperative
+recovery. Alarmingly, two patients were given written information to
+fast completely from midnight, despite this not being on the new patient information
+leaflet. An improvement in fasting practices has been seen following
+introduction of the new guidelines and patient information leaflets. Further staff
+education is required to ensure the correct information is disseminated to
+patients to enable additional progress to be made.
+
+References
+1. AAGBI Safety Guideline; Pre-operative assessment and patient preparation.
+The role of the anaesthetist. The Association of Anaesthetists of Great Britain
+& Ireland. London, 2010.
+2. Nygren J. The metabolic effects of fasting and surgery. Best Practice &
+Research Clinical Anaesthesiology 2006; 20: 429-438.
 
 Anaesthesia
 PMID: 26390917 DOI: [10.1111/anae.13223](https://doi.org/10.1111/anae.13223)
+DOI: https://doi.org/10.1111/anae.13224
