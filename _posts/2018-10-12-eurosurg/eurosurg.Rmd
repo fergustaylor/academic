@@ -15,8 +15,8 @@ journal:
   title: "Colorectal Dis."
   issn: 1463-1318
   publisher: Wiley Online Journal
-  volume: 20
-  issue: 8
+volume: 20
+issue: 8
 doi: "10.1111/codi.14292"
 PMID: "29897171"
 date: 07-09-2018

@@ -23,8 +23,8 @@ journal:
   title: "Anaesthesia"
   issn: 1365-2044
   publisher: Wiley Online Journal
-  volume: 70
-  issue: S4
+volume: 70
+issue: S4
 doi: "https://doi.org/10.1111/anae.13224"
 PMID: 26390917
 date: 09-22-2015
@@ -49,12 +49,14 @@ information sheet has since been introduced across our health board. We sought
 to determine if this new guideline and staff education have improved the duration
 of pre-operative fasting in elective breast surgery patients in our hospital.
 
-Methods
+Methods:
+
 Over a five-week period, a re-audit was conducted on elective breast surgery
 patients. Patients were interviewed to determine their fasting times for food
 and clear fluids, and what information they had received on fasting.
 
-Results
+Results:
+
 Data were collected for 24 elective breast surgery patients. The mean fasting
 time for food was 15 h 10 min (range 8 h 50 min to 21 h 5 min); [previous
 data 15 h 24 min (range 11 h 0 min to 21 h 30 min)]. The mean fasting time
@@ -66,7 +68,8 @@ midnight. Twenty patients recalled being given written information on fasting,
 whereas ten patients received written and verbal information. Two patients
 received only verbal information.
 
-Discussion
+Discussion:
+
 From this re-audit it is evident that elective breast surgery patients in our centre
 are continuing to fast for excessive periods, although slightly less than previously.
 Disappointingly, patients allocated to the afternoon list were told to fast
@@ -80,6 +83,7 @@ education is required to ensure the correct information is disseminated to
 patients to enable additional progress to be made.
 
 References
+
 1. AAGBI Safety Guideline; Pre-operative assessment and patient preparation.
 The role of the anaesthetist. The Association of Anaesthetists of Great Britain
 & Ireland. London, 2010.
@@ -88,4 +92,3 @@ Research Clinical Anaesthesiology 2006; 20: 429-438.
 
 Anaesthesia
 PMID: 26390917 DOI: [10.1111/anae.13223](https://doi.org/10.1111/anae.13223)
-DOI: https://doi.org/10.1111/anae.13224
