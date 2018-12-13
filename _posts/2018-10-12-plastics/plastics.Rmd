@@ -23,7 +23,7 @@ author:
     affiliation: Canniesburn Plastic Surgery Unit
     affiliation_url: 
 journal: 
-  title: "European Journal of Surgical Oncology"
+  title: "European Journal of Surgical Oncology (EJSO)"
   issn: 0748-7983
   publisher: Elsevier
 volume: 42
@@ -38,10 +38,15 @@ output:
 ---
 
 ```{r setup, include=FALSE}
+Sys.setenv(TZ='GMT')
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-![](plastics.jpg)
+```{r, include=FALSE}
+#[European Journal of Surgical Oncology (EJSO)
+#Volume 42, Issue 5,](https://www.sciencedirect.com/journal/european-journal-of-surgical-oncology/vol/42/issue/5) May 2016, Pages S59
+#[doi:10.1016/j.ejso.2016.02.226](http://dx.doi.org/10.1016/j.ejso.2016.02.226)
+```
 
 Introduction: Bilateral mastectomy and reconstruction is performed for treatment and risk reduction for breast cancer. A cross-sectional study evaluated practice at a tertiary unit in Glasgow, UK.
 

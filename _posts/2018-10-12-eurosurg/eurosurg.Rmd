@@ -26,8 +26,19 @@ output:
 ---
 
 ```{r setup, include=FALSE}
+Sys.setenv(TZ='GMT')
 knitr::opts_chunk$set(echo = FALSE)
 ```
+
+```{r, include=FALSE}
+#[NCBI](https://www.ncbi.nlm.nih.gov/pubmed/?term=Body+mass+index+and+complications+following+major+gastrointestinal+surgery%3A+a+prospective%2C+international+cohort+study+and+meta%E2%80%90analysis)
+
+#PMID: 29897171 DOI: [10.1111/codi.14292](https://doi.org/10.1111/codi.14292)
+
+#Colorectal Dis. 2018 Aug;20(8):O215-O225. doi: 10.1111/codi.14292. Epub 2018 Jul 9.
+```
+
+Body mass index and complications following major gastrointestinal surgery: a prospective, international cohort study and meta-analysis.
 
 Abstract
 AIM:
@@ -43,5 +54,3 @@ CONCLUSIONS:
 In our international data, obesity was not found to be associated with major complications following gastrointestinal surgery. Meta-analysis of available prospective data made a novel finding of obesity being associated with different outcomes depending on whether patients were undergoing surgery for benign or malignant disease.
 
 Colorectal Disease © 2018 The Association of Coloproctology of Great Britain and Ireland.
-
-PMID: 29897171 DOI: [10.1111/codi.14292](https://doi.org/10.1111/codi.14292)

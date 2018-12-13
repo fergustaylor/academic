@@ -35,6 +35,7 @@ output:
 ---
 
 ```{r setup, include=FALSE}
+Sys.setenv(TZ='GMT')
 knitr::opts_chunk$set(
   echo = TRUE,
   warning = TRUE,
