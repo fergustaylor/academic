@@ -1,8 +1,8 @@
 ---
-title: "About this blog"
+title: "About this Blog"
 description: |
-  This is a blog for academic projects I've worked on as a student. <br>
-  It's built on [Radix](https://rstudio.github.io/radix/), an online publication format designed for scientific and technical communication. <br>
+  This is a blog for academic projects I've worked on. <br>
+  It's built on [Distill](https://rstudio.github.io/distill/), an online publication format designed for scientific and technical communication. <br>
   You can see more data science projects back on the [main site.](https://fergustaylor.github.io/)
 ---
 
@@ -10,7 +10,7 @@ description: |
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-**About Me:** I’m a Glasgow medical student with a passion for Global Medicine and Reconstructive Surgery.
+**About Me:** I’m a Glasgow medical student with a passion for Global Medicine and Reconstructive Surgery. From August 2019 I'll be working as an Academic Foundation Doctor in Dundee.
 
 I'm interested in quality improvement in healthcare, and I’ve worked on a few research projects as a student. I’m currently learning how to use more data science tools with R. (.. d3.js and HTML).
 

@@ -1,9 +1,10 @@
 name: "academic"
 title: "Academic"
 description: |
-  A collection of projects I've worked on as a student.
+  A collection of academic projects I've worked on.
 output_dir: "docs"
 repository_url: http://github.com/fergustaylor/academic/
+base_url:
 google_analytics: "UA-107299466-1"
 twitter:
   site: "@ferguswtaylor"
@@ -17,6 +18,6 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
-output:
-  radix::radix_article:
+output: 
+  distill::distill_article:
     css: styles.css
