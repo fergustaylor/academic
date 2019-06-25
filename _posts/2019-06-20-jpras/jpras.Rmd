@@ -1,0 +1,56 @@
+---
+title: "JPRAS Visual Abstracts"
+description: |
+  One-stage reconstruction of complex soft tissue defects in the hands using multidigit, chimeric, lateral arm, perforator flaps.
+  A visual abstract produced for JPRAS.
+author:
+  - name: Fergus Taylor 
+    url: https://fergustaylor.github.io/about/
+    affiliation: University of Glasgow
+    affiliation_url: https://www.gla.ac.uk/
+  - name: As listed below.
+    url: 
+    affiliation: 
+    affiliation_url: 
+journal: 
+  title: 
+  issn: 
+  publisher: 
+  volume: 
+  issue: 
+  doi: 
+  PMID: 
+date: 2019-06-20
+preview: VA2.png
+twitter:
+  site: ""
+  creator: "@ferguswtaylor"
+output:
+  distill::distill_article:
+    self_contained: false
+    toc: true
+    toc_depth: 3
+---
+
+```{r setup, include=FALSE}
+Sys.setenv(TZ='GMT')
+knitr::opts_chunk$set(echo = FALSE,
+                      warning = FALSE,
+                      message = FALSE
+                      )
+```
+
+```{r, include=FALSE}
+#PMID/DOI
+#Sometime I put the metadata here
+```
+
+```{r}
+#Libaries.
+library(tidyverse)
+```
+
+![](VA2.png)
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">❔What are the solutions you’ve used for complex soft tissue defects of the hand ❔<br><br>❓Chimeric lateral arm flaps❓<a href="https://t.co/4YsrVvbsOU">https://t.co/4YsrVvbsOU</a> <a href="https://t.co/hS8lgEHg4D">pic.twitter.com/hS8lgEHg4D</a></p>&mdash; @JPRAS (@JPRASurg) <a href="https://twitter.com/JPRASurg/status/1142759458310893570?ref_src=twsrc%5Etfw">June 23, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

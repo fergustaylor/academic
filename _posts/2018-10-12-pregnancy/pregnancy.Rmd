@@ -27,8 +27,11 @@ journal:
   issue: 
   doi: 
   PMID: 
-date: 
+date: 2018-12-13
 preview: audit.png
+twitter:
+  site: ""
+  creator: "@ferguswtaylor"
 output:
   radix::radix_article:
     self_contained: false
@@ -45,4 +48,6 @@ knitr::opts_chunk$set(
 
 ![](audit.png)
 
-A placeholder for now.
+A placeholder to show off a graphic.
+
+Will be updated with info.

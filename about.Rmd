@@ -8,6 +8,7 @@ description: |
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
+#copy from https://fergustaylor.github.io/about
 ```
 
 **About Me:** I’m a Glasgow medical student with a passion for Global Medicine and Reconstructive Surgery. From August 2019 I'll be working as an Academic Foundation Doctor in Dundee.

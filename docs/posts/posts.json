@@ -1,5 +1,24 @@
 [
   {
+    "path": "posts/2019-06-20-jpras/",
+    "title": "JPRAS Visual Abstracts",
+    "description": "One-stage reconstruction of complex soft tissue defects in the hands using multidigit, chimeric, lateral arm, perforator flaps.\nA visual abstract produced for JPRAS.",
+    "author": [
+      {
+        "name": "Fergus Taylor",
+        "url": "https://fergustaylor.github.io/about/"
+      },
+      {
+        "name": "As listed below.",
+        "url": {}
+      }
+    ],
+    "date": "2019-06-20",
+    "categories": [],
+    "preview": "posts/2019-06-20-jpras/VA2.png",
+    "last_modified": "2019-06-25T14:25:09+00:00"
+  },
+  {
     "path": "posts/2018-10-12-pregnancy/",
     "title": "Early Pregnancy Admissions in A and E",
     "description": "A consideration of Early Pregnancy Admissions in A and E.",
@@ -24,7 +43,7 @@
     "date": "2018-12-13",
     "categories": [],
     "preview": "posts/2018-10-12-pregnancy/audit.png",
-    "last_modified": "2018-12-13T11:31:55+00:00"
+    "last_modified": "2019-06-25T14:30:22+00:00"
   },
   {
     "path": "posts/2018-10-12-eurosurg/",
