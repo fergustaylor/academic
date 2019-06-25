@@ -8,18 +8,18 @@ author:
     url: https://fergustaylor.github.io/about/
     affiliation: University of Glasgow
     affiliation_url: https://www.gla.ac.uk/
-  - name: As listed below.
+  - name: Paper authors as listed below.
     url: 
     affiliation: 
     affiliation_url: 
-journal: 
-  title: 
-  issn: 
-  publisher: 
-  volume: 
-  issue: 
-  doi: 
-  PMID: 
+#journal:
+#  title: "JPRAS" 
+#  issn: 
+#  publisher: 
+#  volume: 72
+#  issue: 6
+doi: "10.1016/j.bjps.2018.12.034"
+PMID: 
 date: 2019-06-20
 preview: VA2.png
 twitter:
@@ -39,18 +39,6 @@ knitr::opts_chunk$set(echo = FALSE,
                       message = FALSE
                       )
 ```
-
-```{r, include=FALSE}
-#PMID/DOI
-#Sometime I put the metadata here
-```
-
-```{r}
-#Libaries.
-library(tidyverse)
-```
-
-![](VA2.png)
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">❔What are the solutions you’ve used for complex soft tissue defects of the hand ❔<br><br>❓Chimeric lateral arm flaps❓<a href="https://t.co/4YsrVvbsOU">https://t.co/4YsrVvbsOU</a> <a href="https://t.co/hS8lgEHg4D">pic.twitter.com/hS8lgEHg4D</a></p>&mdash; @JPRAS (@JPRASurg) <a href="https://twitter.com/JPRASurg/status/1142759458310893570?ref_src=twsrc%5Etfw">June 23, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
