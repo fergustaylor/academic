@@ -12,7 +12,7 @@ author:
     url: 
     affiliation: 
     affiliation_url: 
-#journal:
+journal:
 #  title: "JPRAS" 
 #  issn: 
 #  publisher: 
