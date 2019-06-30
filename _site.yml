@@ -3,8 +3,8 @@ title: "Academic"
 description: |
   A collection of academic projects I've worked on.
 output_dir: "docs"
-repository_url: http://github.com/fergustaylor/academic/
-base_url:
+repository_url: http://github.com/fergustaylor/academic
+#base_url: https://fergustaylor.github.io/academic
 google_analytics: "UA-107299466-1"
 twitter:
   site: "@ferguswtaylor"
@@ -18,6 +18,10 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
+#collections:
+#  posts:
+ #   disqus: reproducible-finance-with-r
+#    share: [twitter]
 output: 
   distill::distill_article:
     css: styles.css
