@@ -15,7 +15,7 @@ author:
 journal:
 #  title: "JPRAS" 
 #  issn: 
-#  publisher: 
+#  publisher: "JPRAS"
 #  volume: 72
 #  issue: 6
 doi: "10.1016/j.bjps.2018.12.034"

@@ -1,5 +1,24 @@
 [
   {
+    "path": "posts/2019-08-18-jpras2/",
+    "title": "JPRAS Visual Abstracts Continued",
+    "description": "Functional recovery after bilateral extended autologous latissimus dorsi breast reconstruction: A prospective observational study.",
+    "author": [
+      {
+        "name": "Fergus Taylor",
+        "url": "https://fergustaylor.github.io/about/"
+      },
+      {
+        "name": "Paper authors as listed below.",
+        "url": {}
+      }
+    ],
+    "date": "2019-08-18",
+    "categories": [],
+    "preview": "posts/2019-08-18-jpras2/JPRAS VA.png",
+    "last_modified": "2019-08-18T13:29:49+00:00"
+  },
+  {
     "path": "posts/2019-06-20-jpras/",
     "title": "JPRAS Visual Abstracts",
     "description": "One-stage reconstruction of complex soft tissue defects in the hands using multidigit, chimeric, lateral arm, perforator flaps.\nA visual abstract produced for JPRAS.",
@@ -16,7 +35,7 @@
     "date": "2019-06-20",
     "categories": [],
     "preview": "posts/2019-06-20-jpras/VA2.png",
-    "last_modified": "2019-06-30T14:50:13+00:00"
+    "last_modified": "2019-06-30T15:52:57+00:00"
   },
   {
     "path": "posts/2018-10-12-pregnancy/",

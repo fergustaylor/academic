@@ -1,0 +1,42 @@
+---
+title: "JPRAS Visual Abstracts Continued"
+description: |
+  Functional recovery after bilateral extended autologous latissimus dorsi breast reconstruction: A prospective observational study.
+author:
+  - name: Fergus Taylor 
+    url: https://fergustaylor.github.io/about/
+    affiliation: University of Glasgow
+    affiliation_url: https://www.gla.ac.uk/
+  - name: Paper authors as listed below.
+    url: 
+    affiliation: 
+    affiliation_url: 
+journal:
+#  title: "JPRAS" 
+#  issn: 
+#  publisher: "JPRAS"
+#  volume: 
+#  issue: 
+doi: "10.1016/j.bjps.2019.01.013"
+PMID: 
+date: 08-18-2019
+preview: JPRAS VA.png
+twitter:
+  site: ""
+  creator: "@ferguswtaylor"
+output:
+  distill::distill_article:
+    self_contained: false
+    toc: true
+    toc_depth: 3
+---
+
+```{r setup, include=FALSE}
+Sys.setenv(TZ='GMT')
+knitr::opts_chunk$set(echo = FALSE,
+                      warning = FALSE,
+                      message = FALSE
+                      )
+```
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">July <a href="https://twitter.com/hashtag/JPRAS?src=hash&amp;ref_src=twsrc%5Etfw">#JPRAS</a> Editor’s pick articles <a href="https://twitter.com/hashtag/openaccess?src=hash&amp;ref_src=twsrc%5Etfw">#openaccess</a> <br><br>Unsure about bilateral LDs in breast recon? <br><br>Conflicted about counselling patients on shoulder function? <br><br>Check out Prof Hart &amp; Ms Weiler-Mithoff’s series here <a href="https://twitter.com/hashtag/BreastReconstruction?src=hash&amp;ref_src=twsrc%5Etfw">#BreastReconstruction</a> <a href="https://t.co/FoHTlxV3x8">https://t.co/FoHTlxV3x8</a><br><br>VA: <a href="https://twitter.com/ferguswtaylor?ref_src=twsrc%5Etfw">@ferguswtaylor</a> <a href="https://t.co/O0Xtd5VgoP">pic.twitter.com/O0Xtd5VgoP</a></p>&mdash; @JPRAS (@JPRASurg) <a href="https://twitter.com/JPRASurg/status/1160641069584977920?ref_src=twsrc%5Etfw">August 11, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
