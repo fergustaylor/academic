@@ -1,19 +1,15 @@
 ---
-title: "About this Blog"
+title: "DRAMS"
 description: |
-  This is a blog for academic projects I've worked on. <br>
-  It's built on [Distill](https://rstudio.github.io/distill/), an online publication format designed for scientific and technical communication. <br>
-  You can see more data science projects back on the [main site.](https://fergustaylor.github.io/)
+  <br>
+  **About Me:** Hello, I'm Fergus. From August 2019-2021, I’ll be completing the Academic Foundation Programme in Ninewells. Research block: April - August 2021.
+  <br><br>
+  **Opportunities:** I'm always keen to help collaborate/teach/learn something new, and over the next 2 years I'm sure I'll need help with projects too. If you're interested get in contact and if I've got anything to advertise I'll place a link here.
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
-#copy from https://fergustaylor.github.io/about
 ```
-
-**About Me:** I’m a Foundation Dr in Dundee with a passion for Global Medicine and Reconstructive Surgery. From August 2019-2021 I’ll be completing the Academic Foundation Programme in Ninewells. 
-
-**Opportunities:** I'm always keen to help collaborate, and over the next 2 years I'm sure I'll need help with projects too. If you're interested, I'll place a notice here.
 
 Feel free to send me a message if you've got any questions.
 You can look up my email directly via dundee.ac.uk. or NHS.net.
