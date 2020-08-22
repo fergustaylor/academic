@@ -10,15 +10,7 @@ description: |
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ``` 
-```
 
 The Academic Training Hub below. [You can access the website here.](https://dmail.sharepoint.com/sites/academictraininghub)
 
 ![](images/ath.png)
-
-Feel free to send me a message if you've got any questions.
-You can look up my email directly via dundee.ac.uk. or NHS.net.
-
-Or contact me below
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfq-1hTJnqD1UNkWd9668VC0IVydxBA77Ss4dv--k5ZUDTq4g/viewform?embedded=true" width="640" height="607" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
