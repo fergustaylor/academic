@@ -1,0 +1,24 @@
+---
+title: "Academic Training Hub"
+description: |
+  <br>
+  **Hello,** I'm Fergus. From August 2019-2021, I’ll be completing the Academic Foundation Programme in Ninewells. Research block: April - August 2021.
+  <br><br>
+  The Academic Training Hub was developed in July 2020 to help highlight and develop opportunities for Doctors and Medical Students based in Tayside who are interested in research, teaching and clinical governance.
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+``` 
+```
+
+The Academic Training Hub below. [You can access the website here.](https://dmail.sharepoint.com/sites/academictraininghub)
+
+![](images/ath.png)
+
+Feel free to send me a message if you've got any questions.
+You can look up my email directly via dundee.ac.uk. or NHS.net.
+
+Or contact me below
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfq-1hTJnqD1UNkWd9668VC0IVydxBA77Ss4dv--k5ZUDTq4g/viewform?embedded=true" width="640" height="607" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
