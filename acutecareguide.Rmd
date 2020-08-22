@@ -1,0 +1,15 @@
+---
+title: "Acute Care Guide"
+description: |
+  <br>
+  **About Me:** Hello, I'm Fergus. From August 2019-2021, I’ll be completing the Academic Foundation Programme in Ninewells. Research block: April - August 2021.
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+The Acute Care Guide below. [You can access the website here.](https://blogs.cmdn.dundee.ac.uk/acg-test/)
+
+![](images/acg.png)
